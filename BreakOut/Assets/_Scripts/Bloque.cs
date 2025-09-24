@@ -23,8 +23,11 @@ public class Bloque : MonoBehaviour
 
     }
 
+    // Rebote de pelota (Principal)
     public virtual void RebotarBola()
     {
 
     }
+
+
 }

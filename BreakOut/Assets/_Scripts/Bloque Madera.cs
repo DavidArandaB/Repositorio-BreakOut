@@ -11,6 +11,7 @@ public class BloqueMadera : Bloque
         HP = 3;
     }
 
+    // Rebote de pelota (Override)
     public override void RebotarBola()
     {
         base.RebotarBola();
